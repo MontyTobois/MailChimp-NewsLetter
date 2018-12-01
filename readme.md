@@ -24,5 +24,5 @@
 This game is built with **HTML and JAVASCRIPT.**
 
 
-* [Icons] (https://fontawesome.com/v4.7.0/)
-* [BootsWatch] (https://bootswatch.com/)
+* Icons (https://fontawesome.com/v4.7.0/)
+* BootsWatch (https://bootswatch.com/)
